@@ -33,4 +33,4 @@
 1. Package for extracting `subject - verb - object` triplets in russian texts: [ru-svo-triplets](https://github.com/dmitry-rvn/ru-svo-triplets)
 2. Project example for tasks execution using directed acyclic graphs (DAGs) (when separate orchestrator is an overkill): *to be added soon*
 3. Project for staff allocation optimiziation: *to be added soon*
-4. Custom PyTorch-like deep learning framework ([Carnegie Mellon University online-course](https://dlsyscourse.org/)): *to be added soon*
+4. Custom PyTorch-like deep learning framework ([Carnegie Mellon University online-course](https://dlsyscourse.org/)): *to be added after completion*
