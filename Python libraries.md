@@ -10,9 +10,9 @@
 | Image processing         | `opencv-python`, `albumentations`, `Pillow`, `scikit-image`, `imutils`                                                 |
 | NLP                      | `nltk`, `spacy`, `transformers`, `gensim`, `sentence_transformers`, `dostoevsky`, `vaderSentiment`, `stanza`           |
 | RecSys                   | `LightFM`, `implicit`                                                                                                  |
-| Other data/ML tools      | `faiss`, `gym`, `geopy`                                                                                                |
-| Visualization            | `matplotlib`, `plotly`, `Dash`, `seaborn`                                                                      |
-| Web-dev                  | `fastapi` :heart:, `Django`, `Flask`, `Streamlit`                                                                              |
+| Other data/ML tools      | `shap`, `faiss`, `gym`, `geopy`                                                                                        |
+| Visualization            | `matplotlib`, `plotly`, `Dash`, `seaborn`                                                                              |
+| Web-dev                  | `fastapi` :heart:, `Django`, `Flask`, `Streamlit`                                                                      |
 | Parsing & other web      | `BeautifulSoup4`, `requests`, `scrapy`, `Selenium`, `lxml`                                                             |
 | Tools companions         | `apache-airflow`, `pymongo`, `redis`, `celery`, `feast`                                                                |
 | Logging                  | `loguru` :heart:, `logging`                                                                                            |
