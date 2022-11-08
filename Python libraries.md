@@ -6,7 +6,7 @@
 |--------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Data tools               | `pandas` :heart:, `numpy`,  `scipy`, `scikit-multilearn`                                                               |
 | Classic Machine learning | `scikit-learn` :heart:, `catboost`, `river`, `statsmodels`                                                             |                                                                                                     |
-| Deep learning            | `PyTorch` :heart: (including `torchvision`), `pretrainedmodels`, `efficientnet-pytorch`, `segmentation-models-pytorch` |
+| Deep learning            | `PyTorch` :heart:, `torchvision`, `torchtext`, `pretrainedmodels`, `efficientnet-pytorch`, `segmentation-models-pytorch` |
 | Image processing         | `opencv-python`, `albumentations`, `Pillow`, `scikit-image`, `imutils`                                                 |
 | NLP                      | `nltk`, `spacy`, `transformers`, `gensim`, `sentence_transformers`, `dostoevsky`, `vaderSentiment`, `stanza`           |
 | RecSys                   | `LightFM`, `implicit`                                                                                                  |
