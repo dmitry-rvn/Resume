@@ -5,7 +5,7 @@
 | Field                    | Libraries                                                                                                              |
 |--------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Data tools               | `pandas` :heart:, `numpy`,  `scipy`, `scikit-multilearn`                                                               |
-| Classic Machine learning | `scikit-learn` :heart:, `catboost`, `river`, `statsmodels`                                                             |                                                                                                     |
+| Classic Machine learning | `scikit-learn` :heart:, `catboost`, `river`, `statsmodels`                                                             | 
 | Deep learning            | `PyTorch` :heart:, `torchvision`, `torchtext`, `pretrainedmodels`, `efficientnet-pytorch`, `segmentation-models-pytorch` |
 | Image processing         | `opencv-python`, `albumentations`, `Pillow`, `scikit-image`, `imutils`                                                 |
 | NLP                      | `nltk`, `spacy`, `transformers`, `gensim`, `sentence_transformers`, `dostoevsky`, `vaderSentiment`, `stanza`           |
@@ -14,7 +14,7 @@
 | Visualization            | `matplotlib`, `plotly`, `Dash`, `seaborn`                                                                              |
 | Web-dev                  | `fastapi` :heart:, `Django`, `Flask`, `Streamlit`                                                                      |
 | Parsing & other web      | `BeautifulSoup4`, `requests`, `scrapy`, `Selenium`, `lxml`                                                             |
-| Tools companions         | `apache-airflow`, `pymongo`, `redis`, `celery`, `feast`                                                                |
+| Tools companions         | `apache-airflow`, `prefect orion`, `elasticsearch`, `pymongo`, `redis`                                                       |
 | Logging                  | `loguru` :heart:, `logging`                                                                                            |
 | Testing                  | `pytest` :heart:, `pytest-cov`, `unittest`                                                                             |
 | Profiling                | `cProfile`, `line_profiler`, `memory_profiler`                                                                         | 
