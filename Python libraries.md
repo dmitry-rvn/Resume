@@ -10,11 +10,11 @@
 | Image processing         | `opencv-python`, `albumentations`, `Pillow`, `scikit-image`, `imutils`                                                 |
 | NLP                      | `nltk`, `spacy`, `transformers`, `gensim`, `sentence_transformers`, `dostoevsky`, `vaderSentiment`, `stanza`           |
 | RecSys                   | `LightFM`, `implicit`                                                                                                  |
-| Other data/ML tools      | `shap`, `faiss`, `gym`, `geopy`                                                                                        |
+| Other data/ML tools      | `shap`, `hyperopt`, `faiss`, `gym`, `geopy`                                                                            |
 | Visualization            | `matplotlib`, `plotly`, `Dash`, `seaborn`                                                                              |
 | Web-dev                  | `fastapi` :heart:, `Django`, `Flask`, `Streamlit`                                                                      |
 | Parsing & other web      | `BeautifulSoup4`, `requests`, `scrapy`, `Selenium`, `lxml`                                                             |
-| Tools companions         | `apache-airflow`, `prefect orion`, `elasticsearch`, `pymongo`, `redis`                                                       |
+| Tools companions         | `apache-airflow`, `prefect orion`, `elasticsearch`, `pymongo`, `redis`                                                 |
 | Logging                  | `loguru` :heart:, `logging`                                                                                            |
 | Testing                  | `pytest` :heart:, `pytest-cov`, `unittest`                                                                             |
 | Profiling                | `cProfile`, `line_profiler`, `memory_profiler`                                                                         | 
