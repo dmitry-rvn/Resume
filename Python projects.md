@@ -1,14 +1,11 @@
-### Python projects at work
-
----
+### Python/DS projects at work
 
 1. **Web-app for working with documents + text classification ML pipeline**
-- load Word-document (committee's protocols), parse and extract structured data (including finding linkages between protocols), put data into database, display data in browser
-- `Django` backend
+- load Word-document (committee's protocols), parse and extract structured data (including finding linkages between protocols like "*this* paragraph cancels *that* paragraph"), insert data into database, display data in browser (filter, search, export, etc)
+- `Django 3` backend
 - HTML + CSS + JS frontend
-- multilabel text classification (`spacy` + `scikit-learn`) pipeline (with automated batch retraining)
-- custom logging; logs displayed in a dashboard on Power BI Report Server
-- dashboard for ML model performance: metrics, word cloud, tokens importance
+- multilabel text classification (`spacy` + `scikit-learn`) ML-pipeline (with automated batch retraining)
+- dashboard for ML model performance: metrics, word cloud, tokens importances
 - deployed on Windows Server with IIS
 
 ---
@@ -20,17 +17,31 @@
 
 ---
 
-3. **Other**:
-- CLI-app for everyday data quality checks
-- CLI-app for triggering Power BI reports update or script launching on condition (specific DWH tables readiness)
-- numerous CLI-apps for data processing tasks (extract - transform - save/load)
-- `FastAPI` service to use previously mentioned CLI-apps
+3. **Churn prediction**
+- extracting features from transactional and deals data of customers
+- `CatBoost` model; hyperparameters search
+- `MLflow` for experiment tracking, model registry
 
 ---
 
-### Other Python projects:
+4. **Data quality monitoring app**
+- CLI-application for everyday automated data quality checks
+- alerting in messenger
+- visualization in dashboards on Power BI Report Server
+- easy to create a new check case
+
+---
+
+5. **Other**:
+- CLI-apps for data processing (extract - transform - save/load)
+- `FastAPI` service to trigger CLI-apps
+- `prefect orion` for tasks orchestration
+
+---
+
+### Other Python/DS projects:
 
 1. Package for extracting `subject - verb - object` triplets in russian texts: [ru-svo-triplets](https://github.com/dmitry-rvn/ru-svo-triplets)
 2. Project example for tasks execution using directed acyclic graphs (DAGs) (when separate orchestrator is an overkill): [dag-execution-example](https://github.com/dmitry-rvn/dag-execution-example)
-3. Project for staff allocation optimiziation: *to be added soon*
-4. Custom PyTorch-like deep learning framework ([Carnegie Mellon University online-course](https://dlsyscourse.org/)): *to be added after completion*
+3. Project for simple staff allocation optimiziation: [staff-allocation-optimization](https://github.com/dmitry-rvn/staff-allocation-optimization)
+4. Custom PyTorch-like deep learning framework ([Carnegie Mellon University online-course](https://dlsyscourse.org/))
