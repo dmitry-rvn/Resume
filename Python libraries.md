@@ -10,7 +10,7 @@
 | Image processing         | `opencv-python`, `albumentations`, `Pillow`, `scikit-image`, `imutils`                                                 |
 | NLP                      | `nltk`, `spacy`, `transformers`, `gensim`, `sentence_transformers`, `dostoevsky`, `vaderSentiment`, `stanza`           |
 | RecSys                   | `LightFM`, `implicit`                                                                                                  |
-| Other data/ML tools      | `shap`, `hyperopt`, `faiss`, `gym`, `geopy`                                                                            |
+| Other data/ML tools      | `pycaret`, `shap`, `hyperopt`, `faiss`, `gym`, `geopy`                                                                 |
 | Visualization            | `matplotlib`, `plotly`, `Dash`, `seaborn`                                                                              |
 | Web-dev                  | `fastapi` :heart:, `Django`, `Flask`, `Streamlit`                                                                      |
 | Parsing & other web      | `BeautifulSoup4`, `requests`, `scrapy`, `Selenium`, `lxml`                                                             |
