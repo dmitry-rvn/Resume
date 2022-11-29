@@ -17,7 +17,7 @@
 
 ---
 
-3. **Churn prediction**
+3. **Customer churn prediction**
 - extracting features from transactional and deals data of customers
 - `CatBoost` model; hyperparameters search
 - `MLflow` for experiment tracking, model registry
@@ -39,9 +39,12 @@
 
 ---
 
-### Other Python/DS projects:
+### Other / non-working Python/DS projects:
 
 1. Package for extracting `subject - verb - object` triplets in russian texts: [ru-svo-triplets](https://github.com/dmitry-rvn/ru-svo-triplets)
 2. Project example for tasks execution using directed acyclic graphs (DAGs) (when separate orchestrator is an overkill): [dag-execution-example](https://github.com/dmitry-rvn/dag-execution-example)
-3. Project for simple staff allocation optimiziation: [staff-allocation-optimization](https://github.com/dmitry-rvn/staff-allocation-optimization)
+3. Simple staff-rooms allocation optimiziation: [staff-allocation-optimization](https://github.com/dmitry-rvn/staff-allocation-optimization)
 4. Custom PyTorch-like deep learning framework ([Carnegie Mellon University online-course](https://dlsyscourse.org/))
+5. Computer vision DL model for facial landmark detection
+6. Computer vision DL model for car license plate segmentation and OCR
+7. Transactional data and clickstream data matching
