@@ -35,7 +35,7 @@
 5. **Other**:
 - CLI-apps for data processing (extract - transform - save/load)
 - `FastAPI` service to trigger CLI-apps
-- `prefect orion` for tasks orchestration
+- task orchestration with `prefect orion`
 - bank balance sheet optimization (maximization of net interest income with respect to complex regulatory and business constraints)
 
 ---
@@ -49,5 +49,5 @@
 5. Employees reviews multilabel classification
 6. Computer vision DL model for facial landmark detection
 7. Computer vision DL model for car license plate segmentation and OCR
-8. Transactional data and clickstream data matching
-9. Text translation with RNN Seq2Seq, Attention and Transformer architecures
+8. Customers matching based on transactional data (from one side) and clickstream data (from the other side)
+9. Text translation with RNN Seq2Seq, Attention and Transformer architectures
