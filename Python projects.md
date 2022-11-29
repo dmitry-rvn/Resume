@@ -45,7 +45,8 @@
 2. Project example for tasks execution using directed acyclic graphs (DAGs) (when separate orchestrator is an overkill): [dag-execution-example](https://github.com/dmitry-rvn/dag-execution-example)
 3. Simple staff-rooms allocation optimiziation: [staff-allocation-optimization](https://github.com/dmitry-rvn/staff-allocation-optimization)
 4. Custom PyTorch-like deep learning framework ([Carnegie Mellon University online-course](https://dlsyscourse.org/))
-5. Computer vision DL model for facial landmark detection
-6. Computer vision DL model for car license plate segmentation and OCR
-7. Transactional data and clickstream data matching
-8. Text translation with Seq2Seq, Attention and Transfomer architecures
+5. Employees reviews multilabel classification
+6. Computer vision DL model for facial landmark detection
+7. Computer vision DL model for car license plate segmentation and OCR
+8. Transactional data and clickstream data matching
+9. Text translation with RNN Seq2Seq, Attention and Transfomer architecures
