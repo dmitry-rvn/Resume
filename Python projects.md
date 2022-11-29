@@ -49,4 +49,4 @@
 6. Computer vision DL model for facial landmark detection
 7. Computer vision DL model for car license plate segmentation and OCR
 8. Transactional data and clickstream data matching
-9. Text translation with RNN Seq2Seq, Attention and Transfomer architecures
+9. Text translation with RNN Seq2Seq, Attention and Transformer architecures
