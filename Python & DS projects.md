@@ -35,7 +35,7 @@
 5. **Other**:
 - CLI-apps for data processing (extract - transform - save/load)
 - `FastAPI` service to trigger CLI-apps
-- task orchestration with `prefect orion`
+- workflow orchestration with `prefect orion`
 - bank balance sheet optimization (maximization of net interest income with respect to complex regulatory and business constraints)
 
 ---
