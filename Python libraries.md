@@ -11,7 +11,7 @@
 | NLP                      | `transformers` :heart:, `spacy`, `nltk`, `gensim`, `sentence_transformers`, `dostoevsky`, `vaderSentiment`, `stanza`   |
 | RecSys                   | `LightFM`, `implicit`                                                                                                  |
 | Explainability           | `shap`, `captum`                                                                                                       |
-| Other data/ML tools      | `mlflow`, `pycaret`, `hyperopt`, `faiss`, `gym`, `geopy`, `dvc`, `TorchServe`                                          |
+| Other data/ML tools      | `mlflow` :heart:, `pycaret`, `hyperopt`, `faiss`, `gym`, `geopy`, `dvc`, `TorchServe`                                  |
 | Visualization            | `matplotlib`, `plotly`, `Dash`, `seaborn`                                                                              |
 | Web-dev                  | `fastapi` :heart:, `Django`, `Flask`, `Streamlit`                                                                      |
 | Parsing & other web      | `BeautifulSoup4`, `requests`, `scrapy`, `Selenium`, `lxml`                                                             |
