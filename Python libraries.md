@@ -5,7 +5,7 @@
 | Field                    | Libraries                                                                                                              |
 |--------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Data tools               | `pandas` :heart:, `numpy`, `pyspark`,  `scipy`, `scikit-multilearn`                                                    |
-| Classic Machine learning | `scikit-learn` :heart:, `catboost`, `river`, `statsmodels`                                                             | 
+| Classic Machine learning | `scikit-learn` :heart:, `CatBoost` :heart:, `XGBoost`, `river`, `statsmodels`                                          | 
 | Deep learning            | `PyTorch` :heart:, `torchvision`, `torchtext`, `pretrainedmodels`, `efficientnet-pytorch`, `segmentation-models-pytorch` |
 | Image processing         | `opencv-python`, `albumentations`, `Pillow`, `scikit-image`, `imutils`                                                 |
 | NLP                      | `nltk`, `spacy`, `transformers`, `gensim`, `sentence_transformers`, `dostoevsky`, `vaderSentiment`, `stanza`           |
