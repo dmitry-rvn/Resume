@@ -8,7 +8,7 @@
 | Classic Machine learning | `scikit-learn` :heart:, `CatBoost` :heart:, `XGBoost`, `river`, `statsmodels`                                          | 
 | Deep learning            | `PyTorch` :heart:, `torchvision`, `torchtext`, `pretrainedmodels`, `efficientnet-pytorch`, `segmentation-models-pytorch` |
 | Image processing         | `opencv-python`, `albumentations`, `Pillow`, `scikit-image`, `imutils`                                                 |
-| NLP                      | `nltk`, `spacy`, `transformers`, `gensim`, `sentence_transformers`, `dostoevsky`, `vaderSentiment`, `stanza`           |
+| NLP                      | `transformers` :heart:, `spacy`, `nltk`, `gensim`, `sentence_transformers`, `dostoevsky`, `vaderSentiment`, `stanza`   |
 | RecSys                   | `LightFM`, `implicit`                                                                                                  |
 | Explainability           | `shap`, `captum`                                                                                                       |
 | Other data/ML tools      | `pycaret`, `hyperopt`, `faiss`, `gym`, `geopy`                                                                         |
