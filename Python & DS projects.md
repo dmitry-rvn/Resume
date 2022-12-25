@@ -19,7 +19,7 @@
 
 3. **Customer churn prediction**
 - extracting features from transactional and deals data of customers
-- `CatBoost` model; hyperparameters search
+- `CatBoost` model; hyperparameters search; explanations with `shap`
 - `MLflow` for experiment tracking, model registry
 
 ---
